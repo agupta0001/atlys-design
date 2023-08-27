@@ -10,6 +10,15 @@ const config: Config = {
     extend: {
       colors: {
         "primary-background": "#131319",
+        "secondary-background": "#27292D",
+        "gray-1": "#969696",
+        "gray-2": "#6B6C70",
+        "gray-3": "#C5C7CA",
+        "gray-4": "#7F8084",
+        "gray-5": "#35373B",
+        "gray-6": "#27292D",
+        "gray-7": "#191920",
+        "blue-1": "#4A96FF",
       },
     },
   },
